@@ -14,6 +14,12 @@ Power BI conditional formatting for gradients is quite restrictive and limited t
 
 ![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Matrix%20Gradient/thumbnail.jpg)
 
+## Report Hub
+
+HTML Content (Lite) visual used to create a report hub. Use Direct Query to query the last refresh times from each semantic model.
+
+![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Report%20Hub/thumbnail.png)
+
 ## Slicers
 
 Elevate the slicer user experience by showing how many records will be affected with each selection. Useful when using _Sync Slicers_ functionality.
