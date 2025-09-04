@@ -11,8 +11,8 @@ A simple table that uses an SVG to show a donut as well as demonstrating the use
 ## Info Icon
 
 A HTML info icon that shows report information when hovered over.
+<img src="https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Info%20Icon/thumbnail.jpg" width="600">
 
-![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Info%20Icon/thumbnail.jpg)
 
 ## Matrix Gradient
 
