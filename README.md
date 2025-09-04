@@ -8,6 +8,12 @@ A simple table that uses an SVG to show a donut as well as demonstrating the use
 
 ![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Chips%20%26%20Donuts/thumbnail.jpg)
 
+## Info Icon
+
+A HTML info icon that shows report information when hovered over.
+
+![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Info%20Icon/thumbnail.jpg)
+
 ## Matrix Gradient
 
 Power BI conditional formatting for gradients is quite restrictive and limited to 3 colours. Using some simple DAX, we can easily interpolate between as many colours as required and have much more control over gradient boundaries.
