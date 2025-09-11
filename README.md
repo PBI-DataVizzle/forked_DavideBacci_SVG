@@ -10,7 +10,8 @@ A simple table that uses an SVG to show a donut as well as demonstrating the use
 
 ## Info Icon
 
-A HTML info icon that shows report information when hovered over.
+A HTML info icon which when hovered over, displays all the key details and context that readers need to understand the numbers they’re seeing.
+
 <p align="center">
 <img src="https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Info%20Icon/thumbnail.jpg" width="500">
 </p>
