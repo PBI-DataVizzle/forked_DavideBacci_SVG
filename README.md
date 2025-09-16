@@ -40,4 +40,4 @@ SVG bars created using a User Defined Function. The bars can be left or right al
 
 Source data: ![https://Source: https://www.census.gov/](https://www.census.gov/data-tools/demo/idb/#/pop?dashboard_page=country&COUNTRY_YR_ANIM=2025&CCODE=**&popPages=BYAGE&menu=popViz)
 
-![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Tornao0%20Chart/thumbnail.png)
+![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Tornado0%20Chart/thumbnail.png)
