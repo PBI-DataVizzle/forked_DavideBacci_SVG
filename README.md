@@ -33,3 +33,11 @@ HTML Content (Lite) visual used to create a report hub. Use Direct Query to quer
 Elevate the slicer user experience by showing how many records will be affected with each selection. Useful when using _Sync Slicers_ functionality.
 
 ![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Slicers/thumbnail.png)
+
+## Tornado Chart
+
+SVG bars created using a User Defined Function. The bars can be left or right aligned and are used here to create a 2025 World Population Pyramid. Regular Power BI data bars cannot be used in this scenario as bar lengths cannot be uniformly scaled across multiple columns and would result in a misleading visualisation.
+
+Source data: ![https://Source: https://www.census.gov/](https://www.census.gov/data-tools/demo/idb/#/pop?dashboard_page=country&COUNTRY_YR_ANIM=2025&CCODE=**&popPages=BYAGE&menu=popViz)
+
+![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Tornao0%20Chart/thumbnail.png)
