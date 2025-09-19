@@ -8,6 +8,12 @@ A simple table that uses an SVG to show a donut as well as demonstrating the use
 
 ![](https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Chips%20%26%20Donuts/thumbnail.jpg)
 
+## Chips (DAX UDF)
+
+A UDF to easily create SVG Chips. Syntax is as simple as `Bacci.SVG.Chip("Text","Blue")`
+
+![](<https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Chips%20(DAX%20UDF)/thumbnail.png>)
+
 ## Info Icon
 
 A HTML info icon which when hovered over, displays all the key details and context that readers need to understand the numbers they’re seeing.
