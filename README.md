@@ -18,7 +18,7 @@ A UDF to easily create SVG Chips. Syntax is as simple as `Bacci.SVG.Chip("Text",
 
 A UDF to easily create SVG Chips. Syntax is as simple as `Bacci.SVG.Chip("Text","Blue")`
 
-![](<https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Duration%20(DAX%20UDF)/thumbnail.png>)
+![](<https://github.com/PBI-David/PBI-Core-Visuals-SVG-HTML/blob/main/Duration%20(DAX%20UDF)/Thumbnail.png>)
 
 ## Info Icon
 
